@@ -4,6 +4,9 @@
 
 This should work automatically; if not you might have to install [.NET 5.0](https://dotnet.microsoft.com/download/dotnet/5.0) (or higher) and a maybe also a [MonoGame development environment](https://docs.monogame.net/articles/getting_started/0_getting_started.html) (the latter should be handled via NuGet in the `dotnet restore` tho).
 
+## Screenshot:
+![Alt text](/screenshot.png?raw=true "Screenshot")
+
 # Functionality
 * You can click-and-drag; this is a little laggy since everything gets re-generated during it but should work on any average-or-better GPU (tested on a GTX 670)
 * You can scroll to change scale
